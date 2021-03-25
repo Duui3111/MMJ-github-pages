@@ -2,7 +2,3 @@ highlighter: pygments
 permalink: pretty
 relative_permalinks: true
 baseurl: /MMJ-github-pages/
-
-sass:
-  sass_dir: _scss
-  style: :compressed
